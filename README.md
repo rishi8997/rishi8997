@@ -21,5 +21,5 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/rishi8997?theme=light&font=Karma&ext=activity" />
+<img height="273em" src="https://leetcard.jacoblin.cool/rishi8997?theme=light&font=Karma&ext=contest" />
 
