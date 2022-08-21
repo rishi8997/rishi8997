@@ -5,7 +5,7 @@
 
 - 📝 Checkout my [Resume](https://github.com/rishi8997/Resume/blob/main/Rishi_Sharma_Resume.pdf)
 
-- 📫 How to reach me **itsrishisharma35@gmail.com**
+- 📫 Reach me at **itsrishisharma35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
